@@ -1,1 +1,1 @@
-# invoice-rest-services
+# claim-service
